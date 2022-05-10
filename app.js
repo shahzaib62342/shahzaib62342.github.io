@@ -4,8 +4,8 @@
 
 var userObject={
 
-    name:"Noman khan",
-    designation1:"CA broadcom Infrastructure Managment & Security Managment",
+    name:"Muhammad Shahzaib",
+    designation1:"Ionic Developer",
     designation2:"IT CONSULTANT",
     cellNumber:"+92 (349) 0956508",
     email:"nomankhan.ks95@gmail.com",
