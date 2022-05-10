@@ -18,7 +18,7 @@ var userObject={
 
 document.getElementById("goodName").innerHTML=userObject.name;
 
-document.getElementById('shortR').innerHTML=userObject.designation1 +", "+ userObject.designation2;
+document.getElementById('shortR').innerHTML=userObject.designation1;
 
 document.getElementById('qR1').innerHTML=userObject.userReview1;
 document.getElementById('qR2').innerHTML=userObject.userReview2;
