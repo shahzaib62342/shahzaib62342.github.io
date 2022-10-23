@@ -1,6 +1,6 @@
 (function ($) {
   "use strict";
-  new WOW().init();
+  
   var bostami = {
     m: function (e) {
       bostami.d();
@@ -16,8 +16,8 @@
     methods: function (e) {
       bostami.darkToLight();
       bostami.darkToLightMobile();
-      bostami.preloader_load();
-      bostami.preloader_svg();
+       bostami.preloader_load();
+       bostami.preloader_svg();
       bostami.mobileMenu();
       bostami.setDark();
       bostami.setDark1();
@@ -120,6 +120,7 @@
           jQuery.get(
             imgURL,
             function (data) {
+              console.log(data);
               // Get the SVG tag, ignore the rest
               var jQuerysvg = jQuery(data).find("svg");
 
