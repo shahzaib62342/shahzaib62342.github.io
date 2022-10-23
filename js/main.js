@@ -1,5 +1,6 @@
 (function ($) {
   "use strict";
+  new WOW().init();
   var bostami = {
     m: function (e) {
       bostami.d();
