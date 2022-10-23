@@ -1,0 +1,448 @@
+Uri: https://bostamihtml.ibthemespro.com/
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\index.htm
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/aboutOne.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\aboutOne.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/aboutTwo.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\aboutTwo.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://bostamihtml.ibthemespro.com/assets/fontaswesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\assets\fontaswesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://bostamihtml.ibthemespro.com/blogOne.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\blogOne.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/blogTwo.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\blogTwo.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/contactOne.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\contactOne.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/contactTwo.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\contactTwo.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/css/custom.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css\custom.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/css/tailwind.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css\tailwind.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/css/vendor/jquery.modal.min.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css\vendor\jquery.modal.min.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/css/vendor/slick.css
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css\vendor\slick.css
+Content Type: text/css
+
+Uri: https://bostamihtml.ibthemespro.com/homePage.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\homePage.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/images/about/about.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\about\about.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/about/avatar.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\about\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/background/bg-dark.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\background\bg-dark.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/background/bg.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\background\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/background/bgtwo.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\background\bgtwo.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/background/previewbg.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\background\previewbg.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/1.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/2.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/3.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/4.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/5.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/6.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/1.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/2.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/3.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/4.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/5.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/blog_images/small/6.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\blog_images\small\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/contact/email.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\contact\email.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/contact/map.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\contact\map.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/contact/phone-call.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\contact\phone-call.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/closeDark.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\closeDark.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/closelight.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\closelight.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/dowanload.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\dowanload.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon1.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon2.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon3.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon4.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/icons/icon5.svg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\icons\icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://bostamihtml.ibthemespro.com/images/logo/faveicon.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\logo\faveicon.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/logo/logo.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/preview/homeonedark.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\preview\homeonedark.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/preview/homeonelight.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\preview\homeonelight.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/preview/hometwodark.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\preview\hometwodark.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/preview/hometwolight.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\preview\hometwolight.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/preview/preview.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\preview\preview.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/slider/brand.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\slider\brand.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/slider/brand1.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\slider\brand1.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/slider/brand2.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\slider\brand2.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/slider/brand3.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\slider\brand3.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/slider/brand4.png
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\slider\brand4.png
+Content Type: image/png
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/1.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/2.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/3.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/4.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/5.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/6.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/7.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\7.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/8.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\8.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/9.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\9.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/1.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/2.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\2.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/3.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\3.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/4.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\4.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/5.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\5.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/6.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\6.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/7.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\7.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/8.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\8.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/images/work_images/small/9.jpg
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\images\work_images\small\9.jpg
+Content Type: image/jpeg
+
+Uri: https://bostamihtml.ibthemespro.com/js/main.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://bostamihtml.ibthemespro.com/js/vendor/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\js\vendor\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://bostamihtml.ibthemespro.com/js/vendor/jquary.min.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\js\vendor\jquary.min.js
+Content Type: application/javascript
+
+Uri: https://bostamihtml.ibthemespro.com/js/vendor/jquery.modal.min.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\js\vendor\jquery.modal.min.js
+Content Type: application/javascript
+
+Uri: https://bostamihtml.ibthemespro.com/js/vendor/slick.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\js\vendor\slick.js
+Content Type: application/javascript
+
+Uri: https://bostamihtml.ibthemespro.com/portfiloOne.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\portfiloOne.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/portfiloTwo.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\portfiloTwo.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/resumeOne.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\resumeOne.html
+Content Type: text/html
+
+Uri: https://bostamihtml.ibthemespro.com/resumeTwo.html
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\resumeTwo.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Roboto+Slab:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto+Slab:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+File Name: C:\Downloaded Web Sites\bostamihtml.ibthemespro.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+Content Type: font/ttf
+
