@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8"/>
+  <title>Ionic App</title>
+
+  <base href="/"/>
+
+  <meta name="color-scheme" content="light dark"/>
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="msapplication-tap-highlight" content="no"/>
+
+  <link rel="icon" type="image/png" href="assets/icon/favicon.png"/>
+
+  <!-- add to homescreen for ios -->
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <!--=== fontaswesome ===-->
+    <link rel="stylesheet" href="assets/content/assets/fontaswesome/css/all.min.css">
+    <link rel="stylesheet" href="assets/content/assets/fontaswesome/css/fontawesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="assets/content/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600&amp;family=Roboto+Slab:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <!--=== main css ===-->
+    <link rel="stylesheet" href="assets/content/css/tailwind.css">
+    <link rel="stylesheet" href="assets/content/css/custom.css">
+    <script>
+      // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+      if (localStorage.getItem("color-theme") === "dark" || (!("color-theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+          document.documentElement.classList.add("dark");
+      } else {
+          document.documentElement.classList.remove("dark");
+      }
+  </script>
+<link rel="stylesheet" href="styles.css"></head>
+
+<body>
+  <app-root></app-root>
+      <!--==== js =====-->
+      <script src="assets/content/js/vendor/jquary.min.js"></script>
+      <!-- main js -->
+      <script src="assets/content/js/main.js"></script>
+<script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="vendor.js" type="module"></script><script src="main.js" type="module"></script></body>
+
+</html>
