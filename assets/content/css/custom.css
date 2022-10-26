@@ -329,3 +329,7 @@ input:-webkit-autofill:focus {
 		overflow: hidden;
 	}
 }
+
+.small-ss{
+	font-size: 70% !important;
+}

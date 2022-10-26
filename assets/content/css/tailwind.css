@@ -137,6 +137,8 @@ small {
   font-size: 80%;
 }
 
+
+
 /*
 Prevent `sub` and `sup` elements from affecting the line height in all browsers.
 */
@@ -669,6 +671,7 @@ video {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+  
 }
 
 .dark .socialbtn {
@@ -3284,6 +3287,10 @@ video {
 
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 
   .lg\:rounded-2xl {
