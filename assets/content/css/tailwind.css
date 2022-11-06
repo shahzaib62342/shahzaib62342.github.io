@@ -1210,6 +1210,12 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.spinner-color {
+  background-image: linear-gradient(to right, var(--tw-gradient-stops));
+  --tw-text-opacity: 1;
+  color: #DE2576;
+}
+
 .dark .menu-item-two-active {
   --tw-bg-opacity: 1;
   background-color: rgb(33 36 37 / var(--tw-bg-opacity));
@@ -2599,6 +2605,11 @@ video {
 .text-\[\#526377\] {
   --tw-text-opacity: 1;
   color: rgb(82 99 119 / var(--tw-text-opacity));
+}
+
+.text-\[\#ff0000\]{
+  --tw-text-opacity: 1;
+  color: rgb(255, 0, 0 / var(--tw-text-opacity));
 }
 
 .shadow-md {
